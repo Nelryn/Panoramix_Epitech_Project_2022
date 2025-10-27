@@ -1,6 +1,6 @@
 # Panoramix Epitech Project 2022
 
-**Panoramix** is a multithreaded simulation written in **C** that models the teamwork between the druid Panoramix and the indomitable villagers of Gaul.
+**Panoramix** is a multithreaded simulation that models the teamwork between the druid Panoramix and the indomitable villagers of Gaul.
 Each villager fights Roman soldiers as long as there’s potion in the cauldron — and calls the druid to refill it when it’s empty.
 
 This project explores synchronization, concurrency, and thread safety using **mutexes** and **semaphores** in C language.
